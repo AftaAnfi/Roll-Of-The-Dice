@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\bin\Debug\RollOfTheDice.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\bin\Debug\RollOfTheDice.exe
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\bin\Debug\RollOfTheDice.pdb
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\bin\Debug\RollOfTheDice.xml
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.exe
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.xml
+C:\Users\aftanom\Documents\GitHubRepos\RollOfTheDice\Roll-Of-The-Dice\RollOfTheDice\obj\Debug\RollOfTheDice.pdb
